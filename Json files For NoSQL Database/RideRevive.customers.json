@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "665da313d6bf74cd92b81ca3"
+  },
+  "Customer_fullname": "john Doe",
+  "Customer_email": "johndoe@gmail.com",
+  "Customer_number": "71 041 955 ",
+  "Customer_password": "$2b$10$tnWGaEDR0MF8r0/J0XpzaeqNq/oZnSn6jAeAyeEwB5CCb3G/9GBSy",
+  "Customer_address": "Beirut, Lebanon",
+  "Customer_ID": 1,
+  "Customer_state": true,
+  "__v": 0
+}]

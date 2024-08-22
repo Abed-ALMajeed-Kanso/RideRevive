@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "665b044b38e921341781aa53"
+  },
+  "Customer_ID": 1,
+  "Order_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Order_payment_method": "Credit Card",
+  "Order_total_price": 150.75,
+  "Order_ID": 1
+}]

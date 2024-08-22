@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66683772bd7520f68526fcb9"
+  },
+  "Category": "Car Accessories",
+  "Category_state": true,
+  "Category_description": "Seat Covers, Car Chargers, GPS Systems, Air Fresheners",
+  "Category_image": "Car_Accessories.png"
+},
+{
+  "_id": {
+    "$oid": "66717bc518410d2dd0ee60b3"
+  },
+  "Category": "Motorcycle Gears",
+  "Category_state": true,
+  "Category_description": "Helmets, Gloves, Jackets, Motorcycle Covers",
+  "Category_image": "Motorcycle_Gear.png"
+},
+{
+  "_id": {
+    "$oid": "6671bf152d9e30dc27d5bcbc"
+  },
+  "Category": "Tires And Wheels",
+  "Category_state": true,
+  "Category_description": "Car Tires, Motorcycle Tires, Alloy Wheels",
+  "Category_image": "Tires_And_Wheels.png"
+},
+{
+  "_id": {
+    "$oid": "667292934cbe1022c575d063"
+  },
+  "Category": "Maintenance",
+  "Category_state": true,
+  "Category_description": "Engine Oil, Car Wash Kits, Battery Chargers",
+  "Category_image": "Engine_Oil.png"
+},
+{
+  "_id": {
+    "$oid": "6672945e4cbe1022c575d068"
+  },
+  "Category": "Tools And Equipment",
+  "Category_state": true,
+  "Category_description": "Jacks, Tool Kits, Tire Inflators",
+  "Category_image": "Tool_Kit.png"
+}]

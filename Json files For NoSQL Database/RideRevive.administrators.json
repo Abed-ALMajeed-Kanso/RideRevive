@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6658afaf91519a0612a7e5e2"
+  },
+  "Administrator_ID": 1,
+  "Administrator_fullname": "Patrick Jane",
+  "Administrator_email": "patrickJane@gmail.com",
+  "Administrator_password": "$2b$10$tnWGaEDR0MF8r0/J0XpzaeqNq/oZnSn6jAeAyeEwB5CCb3G/9GBSy",
+  "Administrator_number": "71 546 321",
+  "Administrator_address": "Beirut, Lebanon"
+}]

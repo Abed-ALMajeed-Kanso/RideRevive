@@ -1,0 +1,425 @@
+[{
+  "_id": {
+    "$oid": "66673d8fdbea2897bf06f3e6"
+  },
+  "Product_ID": 1,
+  "Product": "Tool Kit",
+  "Product_price": 100,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 27,
+  "Product_image": "Tool_Kit.png",
+  "Category": "Tools And Equipment",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 10
+},
+{
+  "_id": {
+    "$oid": "667fcc067807fd03c2e40793"
+  },
+  "Product_ID": 2,
+  "Product": "Engine Oil",
+  "Product_price": 60,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 26,
+  "Product_image": "Engine_Oil.png",
+  "Category": "Maintenance",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 5
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120924"
+  },
+  "Product_ID": 3,
+  "Product": "Battery Charger",
+  "Product_price": 80,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Battery_Charger.png",
+  "Category": "Maintenance",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120925"
+  },
+  "Product_ID": 4,
+  "Product": "Air Filter",
+  "Product_price": 40,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Air_Filter.png",
+  "Category": "Maintenance",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120926"
+  },
+  "Product_ID": 5,
+  "Product": "Jacks",
+  "Product_price": 90,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Jacks.png",
+  "Category": "Tools And Equipment",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 15
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120927"
+  },
+  "Product_ID": 6,
+  "Product": "Portable Air Compressors",
+  "Product_price": 110,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Portable_Air_Compressors.png",
+  "Category": "Tools And Equipment",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 20
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120928"
+  },
+  "Product_ID": 7,
+  "Product": "Socket Wrench Set",
+  "Product_price": 70,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Socket_Wrench_Set.png",
+  "Category": "Tools And Equipment",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 10
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120929"
+  },
+  "Product_ID": 8,
+  "Product": "Engine Cleaner",
+  "Product_price": 30,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Engine_Cleaner.png",
+  "Category": "Maintenance",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 5
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912092a"
+  },
+  "Product_ID": 9,
+  "Product": "Car Wash Kits",
+  "Product_price": 50,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Car_Wash_Kits.png",
+  "Category": "Maintenance",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912092b"
+  },
+  "Product_ID": 10,
+  "Product": "Tire Inflators",
+  "Product_price": 80,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Tire_Inflators.png",
+  "Category": "Tools And Equipment",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 15
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912092c"
+  },
+  "Product_ID": 11,
+  "Product": "Air Freshener",
+  "Product_price": 20,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Air_Freshener.png",
+  "Category": "Car Accessories",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912092d"
+  },
+  "Product_ID": 12,
+  "Product": "Car Chargers",
+  "Product_price": 15,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Car_Chargers.png",
+  "Category": "Car Accessories",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912092e"
+  },
+  "Product_ID": 13,
+  "Product": "GPS Systems",
+  "Product_price": 100,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "GPS_Systems.png",
+  "Category": "Car Accessories",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 20
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912092f"
+  },
+  "Product_ID": 14,
+  "Product": "Seat Covers",
+  "Product_price": 40,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Seat_Covers.png",
+  "Category": "Car Accessories",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 5
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120930"
+  },
+  "Product_ID": 15,
+  "Product": "Sun Chader",
+  "Product_price": 20,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Sun_Chader.png",
+  "Category": "Car Accessories",
+  "Product_Date": {
+    "$date": "2023-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120931"
+  },
+  "Product_ID": 16,
+  "Product": "Alarms",
+  "Product_price": 60,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Alarms.png",
+  "Category": "Motorcycle Gears",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 10
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120932"
+  },
+  "Product_ID": 17,
+  "Product": "Covers",
+  "Product_price": 25,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Covers.png",
+  "Category": "Motorcycle Gears",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 5
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120933"
+  },
+  "Product_ID": 18,
+  "Product": "Gloves",
+  "Product_price": 20,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Gloves.png",
+  "Category": "Motorcycle Gears",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120934"
+  },
+  "Product_ID": 19,
+  "Product": "Helmets",
+  "Product_price": 100,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Helmets.png",
+  "Category": "Motorcycle Gears",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 15
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120935"
+  },
+  "Product_ID": 20,
+  "Product": "Jackets",
+  "Product_price": 80,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Jackets.png",
+  "Category": "Motorcycle Gears",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 10
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120936"
+  },
+  "Product_ID": 21,
+  "Product": "Motorcycle Wheels",
+  "Product_price": 150,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Motorcycle_Wheels.png",
+  "Category": "Tires And Wheels",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 25
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120937"
+  },
+  "Product_ID": 22,
+  "Product": "Alloy Wheels",
+  "Product_price": 200,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Alloy_Wheels.png",
+  "Category": "Tires And Wheels",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 30
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120938"
+  },
+  "Product_ID": 23,
+  "Product": "Car Wheels",
+  "Product_price": 180,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Car_Wheels.png",
+  "Category": "Tires And Wheels",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 20
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a9120939"
+  },
+  "Product_ID": 24,
+  "Product": "Tire Repair Kit",
+  "Product_price": 50,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Tire_Repair_Kit.png",
+  "Category": "Tires And Wheels",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 5
+},
+{
+  "_id": {
+    "$oid": "668186ca37086fe1a912093a"
+  },
+  "Product_ID": 25,
+  "Product": "Tire Sealant Kits",
+  "Product_price": 45,
+  "Product_state": true,
+  "Product_amount": 30,
+  "Product_current_amount": 30,
+  "Product_image": "Tire_Sealant_Kits.png",
+  "Category": "Tires And Wheels",
+  "Product_Date": {
+    "$date": "2024-06-01T12:00:00.000Z"
+  },
+  "Product_Discount": 0
+}]

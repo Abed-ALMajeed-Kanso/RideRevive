@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66865229c2f1750ddcc98f62"
+  },
+  "loyal_customer_email": "Alison@lau.edu"
+},
+{
+  "_id": {
+    "$oid": "668b96fb45de7bc39861fa34"
+  },
+  "loyal_customer_email": "abedkansof18@gmail.com",
+  "__v": 0
+}]
